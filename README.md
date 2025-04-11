@@ -1,4 +1,4 @@
-# Projeto Funko Pop - HTML
+# Projeto Funko Pop
 
 Site simples desenvolvido como parte do meu aprendizado em HTML e CSS. O objetivo foi praticar a estruturação de páginas utilizando div, nav, id, class e navegação interna por meio de âncoras.
 
